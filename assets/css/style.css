@@ -752,6 +752,23 @@ body {
         background-color: #fff
     }
 
+
+    .intro__title {
+        font-size: 3.5rem;
+    }
+
+    .title {
+        font-size: 3.5rem;
+    }
+
+    .package__item {
+        margin: 2rem 0;
+    }
+
+    .package__image img {
+        width: 100%;
+    }
+
     .reviews {
         height: auto;
         padding-bottom: 5rem;
