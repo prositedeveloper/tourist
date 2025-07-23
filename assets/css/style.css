@@ -769,6 +769,10 @@ body {
         width: 100%;
     }
 
+    .expert__image img {
+        width: 100%;
+    }
+
     .reviews {
         height: auto;
         padding-bottom: 5rem;
